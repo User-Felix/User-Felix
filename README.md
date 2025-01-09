@@ -12,7 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Sebastião Felix
+<p align="center">
+<img style="width: 20%; height:20%;" src="https://github.com/User-Felix/User-Felix/blob/c21304489a9f4443123f4e27baeff14832845be6/oi_sou_felix.png" alt="Exemplo de aplicação">
+</p>
+
+<h1 align="center">Sebastião Felix</h1>
+
 - Olá! Bem vindo(a)! 👋
 
 - 👩🏻‍💻 Futuro Engenheiro de Software compartilhando minha jornada e aprendizados em tecnologia.
@@ -32,6 +37,8 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
 
 <br>
 
